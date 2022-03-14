@@ -1,4 +1,4 @@
-# Jekyll Templates
+# WordPress themes
 A list of useful WordPress themes. Feel free to contribute with an [issue](https://github.com/EIKONproject/wordpress_themes/issues) or a [pull request](https://github.com/EIKONproject/wordpress_themes/pulls) to add some more!
 
 | Repo | Description | Demo | 
